@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mathangivarma
-- 👀 I’m interested in computational biology andd genomics related topics. 
+- 👀 I’m interested in computational biology and genomics related topics. 
 - 🌱 I’m currently learning bioinformatics.
 - 💞️ I’m looking to collaborate on computational biology related projects.
 - 📫 How to reach me: mail @ mathangi.varma.1@gmail.com
